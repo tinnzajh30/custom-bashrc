@@ -8,7 +8,7 @@ Custom bash.bashrc Termux / Vps.
    `rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc`
 3. setelah di hapus masukan bash.bashrc baru
    `nano /data/data/com.termux/files/usr/etc/bash.bashrc`
-   lalu masukan yang di file `custom-bash.bashrc.txt`
+   lalu masukan yang di file `custom-bash.bashrc.txt` kalian juga bisa custom sendiri
 4. save dengan `CRTL + X` lalu `Y dan Enter`
 5. sihlakan reboot/keluar terlebih dahulu dari vps/termux kalian
    dan masuk lagi
